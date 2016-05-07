@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.loan.guru"
+
+		
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Loan Guru</name>
+
+    <description>
+	You Loan Expert!
+    </description>
+
+    <author href="https://videosreedhar.in" email="hanushh@gmail.com">
+        Hanush H Nair
+    </author>
+	
+	<platform name="android" />
+<preference name="fullscreen" value="false" />
+ <preference name="MediaPlaybackRequiresUserAction" value="false"/>
+ <uses-sdk android:minSdkVersion="7" />
+
+</widget>
