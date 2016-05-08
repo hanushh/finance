@@ -18,7 +18,6 @@
 	
 	<platform name="android" />
 <preference name="fullscreen" value="false" />
- <preference name="MediaPlaybackRequiresUserAction" value="false"/>
  <uses-sdk android:minSdkVersion="7" />
 
 </widget>
